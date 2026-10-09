@@ -1,3 +1,13 @@
+# Archived website template
+
+This fork is retained as a reference for the Academic Pages template. Its sample biography, publications, projects, and contact details are template content and do not describe Jingchao (Tony) Zhu.
+
+For my current background, selected projects, and contact information, please visit **[my GitHub profile](https://github.com/TonyZhu233)**.
+
+Original template: [Academic Pages](https://github.com/academicpages/academicpages.github.io). The original license, credits, and documentation are retained below.
+
+---
+
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
